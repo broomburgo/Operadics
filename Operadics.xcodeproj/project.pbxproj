@@ -101,9 +101,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 38B820D31F56967F00B8CEB5 /* Build configuration list for PBXNativeTarget "Operadics-iOS" */;
 			buildPhases = (
+				38B820CB1F56967F00B8CEB5 /* Headers */,
 				38B820C91F56967F00B8CEB5 /* Sources */,
 				38B820CA1F56967F00B8CEB5 /* Frameworks */,
-				38B820CB1F56967F00B8CEB5 /* Headers */,
 				38B820CC1F56967F00B8CEB5 /* Resources */,
 			);
 			buildRules = (
