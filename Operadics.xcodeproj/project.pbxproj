@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		38B820D21F56967F00B8CEB5 /* Operadics.h in Headers */ = {isa = PBXBuildFile; fileRef = 38B820D01F56967F00B8CEB5 /* Operadics.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		38B820D71F5697E800B8CEB5 /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_8 /* Operators.swift */; };
 		OBJ_17 /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_8 /* Operators.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,7 +57,7 @@
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
@@ -65,7 +66,6 @@
 				38B820CF1F56967F00B8CEB5 /* Operadics-iOS */,
 				OBJ_10 /* Products */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_7 /* Sources */ = {
@@ -152,7 +152,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_10 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -178,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38B820D71F5697E800B8CEB5 /* Operators.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -402,6 +403,7 @@
 				38B820D51F56967F00B8CEB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 		OBJ_13 /* Build configuration list for PBXNativeTarget "Operadics" */ = {
 			isa = XCConfigurationList;

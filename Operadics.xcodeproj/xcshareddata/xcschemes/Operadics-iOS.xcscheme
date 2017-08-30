@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "38B820CD1F56967F00B8CEB5"
-               BuildableName = "Operadics-iOS.framework"
+               BuildableName = "Operadics.framework"
                BlueprintName = "Operadics-iOS"
                ReferencedContainer = "container:Operadics.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "38B820CD1F56967F00B8CEB5"
-            BuildableName = "Operadics-iOS.framework"
+            BuildableName = "Operadics.framework"
             BlueprintName = "Operadics-iOS"
             ReferencedContainer = "container:Operadics.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "38B820CD1F56967F00B8CEB5"
-            BuildableName = "Operadics-iOS.framework"
+            BuildableName = "Operadics.framework"
             BlueprintName = "Operadics-iOS"
             ReferencedContainer = "container:Operadics.xcodeproj">
          </BuildableReference>
